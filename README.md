@@ -2,4 +2,4 @@ say_hello("Gabriela")
 
 
 
-Hel
+Hello Gabriela
